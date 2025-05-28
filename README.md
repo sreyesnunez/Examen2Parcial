@@ -19,7 +19,9 @@ Este proyecto es una aplicación web desarrollada con Spring Boot que permite a 
 - Edición de perfil de usuario (nombre, correo, contraseña)  
 - Selector de tema claro/oscuro con persistencia en base de datos  
 - Visualización de sismos en un mapa con marcadores personalizados  
+- Simulación de sismos en un mapa interactivo
 - CRUD de usuarios para administradores
+- CRUD de sismos para administradores
 
 ---
 
